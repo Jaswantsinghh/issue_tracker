@@ -1,0 +1,31 @@
+{
+  "name": "Issue Tracker",
+  "short_name": "Issue Tracker",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "keep a note of all the issues",
+  "icons": [
+    {
+      "src": "puzzle.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "puzzle256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "puzzle128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "puzzle64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
